@@ -18,7 +18,15 @@ I like building cool stuff, solving problems, and learning new technologies.
 - 🌱 I'm learning new technologies
 - 💡 Gaining experience one step at a time
 
-## 📊 GitHub Stats
+## 📊 My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasBeckett/TomasBeckett/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasBeckett/TomasBeckett/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TomasBeckett/TomasBeckett/output/pacman-contribution-graph.svg">
+</picture>
+
+## 📚 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TomasBeckett&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomasBeckett&theme=radical)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=radical)
