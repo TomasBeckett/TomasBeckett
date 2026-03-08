@@ -14,6 +14,6 @@
 - 🌱 I'm learning new technologies
 
 ## 📊 GitHub Stats
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=TomasBeckett&show_icons=true&theme=radical](https://github-readme-stats-eight-theta.vercel.app/api?username=TomasBeckett&show_icons=true&theme=radical))
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TomasBeckett&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomasBeckett&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=radical)
