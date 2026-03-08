@@ -1,7 +1,6 @@
 ## 👋 Hellooo, Tomas Here!! 👋
 
 ![Welcome](https://img.shields.io/badge/Welcome-To%20My%20GitHub-blue?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=TomasBeckett&color=blueviolet)
 
 🚀 Welcome to my corner of the internet!  
 I love building cool stuff, solving problems, and learning new technologies.
