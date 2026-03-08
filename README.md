@@ -14,4 +14,4 @@
 - 🌱 I'm learning new technologies
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasBeckett&show_icons=true&theme=dark)
