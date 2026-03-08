@@ -17,8 +17,8 @@ I like building cool stuff, solving problems, and learning new technologies.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🌟 About Me
-- 🔭 currently working on projects
-- 🌱 I'm learning new technologies
+- 🔭 Currently working on projects
+- 🌱 Learning new technologies
 - 💡 Gaining experience one step at a time
 
 ## 📊 My Contribution Graph
