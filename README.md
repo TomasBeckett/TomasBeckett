@@ -30,6 +30,6 @@ I like building cool stuff, solving problems, and learning new technologies.
 </picture>
 
 ## 📚 GitHub Stats
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TomasBeckett&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomasBeckett&theme=dark)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TomasBeckett&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomasBeckett&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=tokyonight)
