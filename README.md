@@ -2,8 +2,7 @@
 
 ![Welcome](https://img.shields.io/badge/Welcome-To%20My%20GitHub-blue?style=for-the-badge)
 
-🚀 Welcome to my corner of the internet!  
-I love building cool stuff, solving problems, and learning new technologies.
+I like building cool stuff, solving problems, and learning new technologies.
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
