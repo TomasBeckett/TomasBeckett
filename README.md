@@ -23,4 +23,11 @@ I like building cool stuff, solving problems, and learning new technologies.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomasBeckett&theme=radical)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=radical)
 
+## My Contribution Graph
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
 
