@@ -1,6 +1,10 @@
-## Hi there, Im Tomas! 👋
+## 👋 Hellooo, Tomas Here!! 👋
 
-🚀 Passionate Developer | 🌱 Learning Something New | 🎯 Building Cool Stuff
+![Welcome](https://img.shields.io/badge/Welcome-To%20My%20GitHub-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TomasBeckett&color=blueviolet)
+
+🚀 Welcome to my corner of the internet!  
+I love building cool stuff, solving problems, and learning new technologies.
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,6 +16,7 @@
 ## 🌟 About Me
 - 🔭 currently working on projects
 - 🌱 I'm learning new technologies
+- 💡 Gaining experience one step at a time
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=TomasBeckett&show_icons=true&theme=radical)
