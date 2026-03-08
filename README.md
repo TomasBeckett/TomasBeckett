@@ -3,7 +3,7 @@
 ![Welcome](https://img.shields.io/badge/Welcome-To%20My%20GitHub-blue?style=for-the-badge)
 
 I like building cool stuff, solving problems, and learning new technologies.
-![Typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cat Coding](https://raw.githubusercontent.com/TomasBeckett/TomasBeckett/main/Assets/catCoding.webp)
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
