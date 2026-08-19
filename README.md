@@ -102,19 +102,16 @@ Exploring machine learning, NLP, algorithms, and data analysis using Python.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=TomasBeckett&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Tomas's GitHub Stats"
-  />
-
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=TomasBeckett&show_icons=true&theme=tokyonight&hide_border=true" alt="Tomas's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
