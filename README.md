@@ -108,6 +108,7 @@ Exploring machine learning, NLP, algorithms, and data analysis using Python.
     height="170"
     alt="Tomas's GitHub Stats"
   />
+  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasBeckett&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
