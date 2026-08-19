@@ -1,5 +1,3 @@
-# GitHub Profile README — TomasBeckett
-
 <h1 align="center">👋 Hey, I'm Tomas Becket!</h1>
 
 <p align="center">
